@@ -1,0 +1,80 @@
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.csprojj.csprojjjj.csproj.AssemblyReference.cache
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.csprojj.csprojjjj.csproj.SuggestedBindingRedirects.cache
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.Add_Client.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.ClientLogin.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.GameInfo.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.Game_Details.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.HomePage.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.Login.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.Massage.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.NewGame.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.Profile.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.EditDetails.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.Properties.Resources.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.Rent.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.Return.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.UpdateGame.resources
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.csprojj.csprojjjj.csproj.GenerateResource.cache
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.csprojj.csprojjjj.csproj.CoreCompileInputs.cache
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.exe
+G:\projects\test\game rental 2\game_rental_final\obj\Debug\game_rental_final.pdb
+G:\projects\test\game rental 2\game_rental_final\bin\Debug\game_rental_final.exe.config
+G:\projects\test\game rental 2\game_rental_final\bin\Debug\game_rental_final.exe
+G:\projects\test\game rental 2\game_rental_final\bin\Debug\game_rental_final.pdb
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.csprojj.csprojjjj.csproj.AssemblyReference.cache
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.Add_Client.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.Login.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.Properties.Resources.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.Rent.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.UpdateGame.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.csprojj.csprojjjj.csproj.GenerateResource.cache
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.csprojj.csprojjjj.csproj.CoreCompileInputs.cache
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.exe
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.pdb
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\bin\Debug\game_rental_final.exe.config
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\bin\Debug\game_rental_final.exe
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\bin\Debug\game_rental_final.pdb
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.Home.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.AddGame.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.Menu.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.UpdateClient.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.ReturnGame.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\game_rental_final\obj\Debug\game_rental_final.Inquiries.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\bin\Debug\game_rental_final.exe.config
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\bin\Debug\game_rental_final.exe
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\bin\Debug\game_rental_final.pdb
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.csprojj.csprojjjj.csproj.AssemblyReference.cache
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Add_Client.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Home.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Inquiries.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.UpdateGame.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Login.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.AddGame.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Menu.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.UpdateAdmin.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Properties.Resources.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Rent.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.ReturnGame.resources
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.csprojj.csprojjjj.csproj.GenerateResource.cache
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.csprojj.csprojjjj.csproj.CoreCompileInputs.cache
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.exe
+C:\Users\SATA\Desktop\DATABASE PROJECT FINAL\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.pdb
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\bin\Debug\game_rental_final.exe.config
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\bin\Debug\game_rental_final.exe
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\bin\Debug\game_rental_final.pdb
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.csprojj.csprojjjj.csproj.AssemblyReference.cache
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Add_Client.resources
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Home.resources
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Inquiries.resources
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.UpdateGame.resources
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Login.resources
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.AddGame.resources
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Menu.resources
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.UpdateAdmin.resources
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Properties.Resources.resources
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.Rent.resources
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.ReturnGame.resources
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.csprojj.csprojjjj.csproj.GenerateResource.cache
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.csprojj.csprojjjj.csproj.CoreCompileInputs.cache
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.exe
+E:\Year 2 2nd semester\Database\GameRental31_20201212\C#_Forms_Code\game_rental_final\obj\Debug\game_rental_final.pdb
